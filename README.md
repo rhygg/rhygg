@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rhydderchch" target="blank"><img src="https://img.shields.io/twitter/follow/rhydderchch?logo=twitter&style=for-the-badge" alt="rhydderchch" /></a> </p>
 
-- 🔭 I’m currently working on [Shiro](@shiro-development)
+- 🔭 I’m currently working on [Shiro](https://shirobot.org)
 
 - 🌱 I’m currently learning **Rust & React**
 
