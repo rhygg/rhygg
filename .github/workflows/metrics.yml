@@ -32,10 +32,3 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/playlist/2syDAYRvmq65fGYUChN8rK?theme=0
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
-          plugin_wakatime_limit: 4
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: rhygg
